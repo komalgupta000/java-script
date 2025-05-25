@@ -1,1 +1,1 @@
-# java-script-kg
+# java-script
